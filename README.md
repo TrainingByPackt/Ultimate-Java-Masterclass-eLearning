@@ -1,43 +1,34 @@
-[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Java-Fundamentals.svg)](https://github.com/TrainingByPackt/Java-Fundamentals/issues)
-[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Java-Fundamentals.svg)](https://github.com/TrainingByPackt/Java-Fundamentals/network)
-[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Java-Fundamentals.svg)](https://github.com/TrainingByPackt/Java-Fundamentals/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Java-Fundamentals/pulls)
+[![GitHub issues](https://img.shields.io/github/issues/TrainingByPackt/Ultimate-Java-Masterclass-eLearning.svg)](https://github.com/TrainingByPackt/Ultimate-Java-Masterclass-eLearning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/TrainingByPackt/Ultimate-Java-Masterclass-eLearning.svg)](https://github.com/TrainingByPackt/Ultimate-Java-Masterclass-eLearning/network)
+[![GitHub stars](https://img.shields.io/github/stars/TrainingByPackt/Ultimate-Java-Masterclass-eLearning.svg)](https://github.com/TrainingByPackt/Ultimate-Java-Masterclass-eLearning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TrainingByPackt/Ultimate-Java-Masterclass-eLearning/pulls)
 
 
+# Ultimate Java Masterclass eLearning
+Since its inception, Java has stormed the programming world. Its features and functionalities give developers all the tools required to write robust cross-platform applications. Java Fundamentals introduces you to these tools and functionalities that will enable you to start creating Java programs. It starts with the actual material of the language and its philosophy and its evolution over time, until the latest release. You'll learn how the javac/java tools work, and what are Java packages - the way that a Java program is usually organized. Once you are comfortable in this world, you'll be introduced to all the "meat" of the language, with control flow keywords and the likes. You'll learn all about programming and the part it plays in making Java what it is. You'll learn in detail about classes, typecasting, and interfaces, and explore the use of data structures, arrays, strings, handling exceptions, and creating generics. 
 
-# Java Fundamentals
-In the world of programming, there's frequent upgrading of languages and technologies. With the new, the old has to go. At times, the evolvement of a language is so drastic that it renders the knowledge of programming in the old version almost useless. Developers have to learn everything from scratch. This is exhaustive.
-With Java, it's a bit different. It's been decades since Java made an entry into the programming world. However, Java programmers just had to build upon the knowledge of the prior versions when a new version is launched. So, in every sense, becoming a Java developer is a good bet. 
-The common notion regarding Java is that it's a complex language to learn. Not so with this course. This course with a blend of different learning tools makes learning Java an interesting affair.
-There's a growing trend of developers wanting to make a mark in the Android market. Android programming has Java in its roots. This course will provide you with the right start to learning the specifics of writing Android applications.
-
+Java Fundamentals provides you sufficient fluency in Java to write programs to automate some tasks and to follow further courses in algorithms and data structures or more advanced Java courses. 
 
 
 ## What you will learn
-* This course is more of a hand-on, practical guide than a theoretical one. A quick introduction of Java includes writing simple Java programs within no time.
-* All the meat of the language, such as data types, data structures, and control flow are explained justifiably so that you don't miss out on the important language-building concepts.
-* OOP is explained in depth, with emphasis on typecasting, abstract classes, and interfaces.
-* You'll create your own Generics, and learn to handle exceptions.
-
+* Create and run Java programs
+* Use data types, data structures, and control flow in your code
+* Implement best practices while creating objects
+* Work with constructors and inheritance
+* Understand and use advanced data structures to organize and store data
+* Use Generics for stronger check-types during compilation
+* Handle exceptions in your code
 
 
 ### Hardware requirements
 For an optimal student experience, we recommend the following hardware configuration:
-* Processor: Intel Core i7 or equivalent
-* Memory: 8 GB RAM
-* Storage: 35 GB available space
-* An Internet connection
-
+* **Processor**: Intel Core i7 or equivalent
+* **Memory**: 8 GB RAM
+* **Storage**: 35 GB availabe space
 
 
 ### Software requirements
 You’ll also need the following software installed in advance:
-* Operating System: Windows (8 or higher)
-* Operating system: Windows 7 or above
+* Operating System: Windows (7 or higher).
 * Java 8 JDK
 * IntelliJ IDEA
-
-
-
-
-
